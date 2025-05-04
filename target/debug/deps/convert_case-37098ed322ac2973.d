@@ -1,0 +1,11 @@
+D:\zedversions\target\debug\deps\libconvert_case-37098ed322ac2973.rmeta: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\case.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\converter.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\pattern.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\segmentation.rs
+
+D:\zedversions\target\debug\deps\libconvert_case-37098ed322ac2973.rlib: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\case.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\converter.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\pattern.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\segmentation.rs
+
+D:\zedversions\target\debug\deps\convert_case-37098ed322ac2973.d: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\case.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\converter.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\pattern.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\segmentation.rs
+
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\lib.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\case.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\converter.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\pattern.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.6.0\src\segmentation.rs:

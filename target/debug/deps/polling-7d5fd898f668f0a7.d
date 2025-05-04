@@ -1,0 +1,12 @@
+D:\zedversions\target\debug\deps\libpolling-7d5fd898f668f0a7.rmeta: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+D:\zedversions\target\debug\deps\libpolling-7d5fd898f668f0a7.rlib: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+D:\zedversions\target\debug\deps\polling-7d5fd898f668f0a7.d: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs:

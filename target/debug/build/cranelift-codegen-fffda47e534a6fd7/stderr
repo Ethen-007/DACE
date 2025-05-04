@@ -1,0 +1,20 @@
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\settings.rs
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\types.rs
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\opcodes.rs
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\inst_builder.rs
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\settings-x86.rs
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\clif_opt.isle
+Writing generated file: D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\clif_lower.isle
+Rebuilding D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_opt.rs
+
+thread 'main' has overflowed its stack
+Writing ISLE-generated Rust code to D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_opt.rs
+Rebuilding D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_x64.rs
+Writing ISLE-generated Rust code to D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_x64.rs
+Rebuilding D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_aarch64.rs
+Writing ISLE-generated Rust code to D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_aarch64.rs
+Rebuilding D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_s390x.rs
+Writing ISLE-generated Rust code to D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_s390x.rs
+Rebuilding D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_riscv64.rs
+Writing ISLE-generated Rust code to D:\zedversions\target\debug\build\cranelift-codegen-fffda47e534a6fd7\out\isle_riscv64.rs
+fatal: not a git repository (or any of the parent directories): .git

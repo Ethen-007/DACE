@@ -1,0 +1,6 @@
+cargo:rerun-if-changed=../extension_api/wit
+cargo:rerun-if-changed=../extension_api/wit\since_v0.0.1
+cargo:rerun-if-changed=../extension_api/wit\since_v0.0.4
+cargo:rerun-if-changed=../extension_api/wit\since_v0.0.6
+cargo:rerun-if-changed=../extension_api/wit\since_v0.1.0
+cargo:rerun-if-changed=../extension_api/wit\since_v0.2.0

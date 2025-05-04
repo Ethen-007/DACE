@@ -1,0 +1,30 @@
+cargo:rerun-if-changed=cmake/features.cmake
+cargo:rerun-if-changed=cmake/install-headers.cmake
+cargo:rerun-if-changed=include
+-- Enabling feature cranelift
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/conf.h
+-- Up-to-date: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/doc-wasm.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasi.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasm.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasm.hh
+-- Up-to-date: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/async.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/config.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/engine.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/error.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/extern.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/func.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/global.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/instance.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/linker.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/memory.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/module.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/profiling.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/sharedmemory.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/store.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/table.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/trap.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime/val.h
+-- Installing: D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include/wasmtime.h
+cargo:include=D:\zedversions\target\debug\build\wasmtime-c-api-impl-db3f185e31de2f29\out/include

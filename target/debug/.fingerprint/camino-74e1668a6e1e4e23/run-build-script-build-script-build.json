@@ -1,0 +1,1 @@
+{"rustc":16073551614293250696,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[2161281696486875958,"build_script_build",false,7892742839438171748]],"local":[{"RerunIfChanged":{"output":"debug\\build\\camino-74e1668a6e1e4e23\\output","paths":["build.rs"]}}],"rustflags":["--cfg","windows_slim_errors"],"metadata":0,"config":0,"compile_kind":0}

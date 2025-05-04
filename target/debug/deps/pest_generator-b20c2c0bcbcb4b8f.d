@@ -1,0 +1,11 @@
+D:\zedversions\target\debug\deps\libpest_generator-b20c2c0bcbcb4b8f.rmeta: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\macros.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\docs.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\generator.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\parse_derive.rs
+
+D:\zedversions\target\debug\deps\libpest_generator-b20c2c0bcbcb4b8f.rlib: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\macros.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\docs.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\generator.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\parse_derive.rs
+
+D:\zedversions\target\debug\deps\pest_generator-b20c2c0bcbcb4b8f.d: C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\lib.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\macros.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\docs.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\generator.rs C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\parse_derive.rs
+
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\lib.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\macros.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\docs.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\generator.rs:
+C:\Users\ethen\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.15\src\parse_derive.rs:

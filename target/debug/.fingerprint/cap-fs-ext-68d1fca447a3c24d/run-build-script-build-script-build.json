@@ -1,0 +1,1 @@
+{"rustc":16073551614293250696,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3852869345224133488,"build_script_build",false,5117048780067500085]],"local":[{"RerunIfChanged":{"output":"debug\\build\\cap-fs-ext-68d1fca447a3c24d\\output","paths":["build.rs"]}}],"rustflags":["--cfg","windows_slim_errors"],"metadata":0,"config":0,"compile_kind":0}

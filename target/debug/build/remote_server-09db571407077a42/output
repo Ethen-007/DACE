@@ -1,0 +1,2 @@
+cargo:rustc-env=ZED_PKG_VERSION=0.168.0
+cargo:rustc-env=TARGET=x86_64-pc-windows-msvc

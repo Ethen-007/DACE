@@ -1,0 +1,1 @@
+{"rustc":16073551614293250696,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[14125004398382232128,"build_script_build",false,9006632217476649187]],"local":[{"Precalculated":"0.12.2"}],"rustflags":["--cfg","windows_slim_errors"],"metadata":0,"config":0,"compile_kind":0}
